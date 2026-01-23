@@ -1,0 +1,6 @@
+Vitamin C Serum, Garnier, 200, 1000.0, France
+Skin Cleanser, Cetaphil, 100, 280.0, Switzerland
+Sunscreen, Aqualogica, 192, 700.0, India
+Face Mask, Innisfree, 180, 500.0, South Korea
+Night Cream, The Shop, 120, 900.0, Nepal
+Facial Toner, Dr. JK, 250, 750.0, UK
