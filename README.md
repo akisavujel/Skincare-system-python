@@ -1,16 +1,28 @@
-# Skincare Inventory System
+# 🧴 Skincare Inventory System
 
-A Python-based Skincare Inventory System that helps manage buying, selling, and restocking skincare products. This project demonstrates Python programming, data management, and basic inventory logic.
+A **Python-based inventory application** that helps manage skincare products — from tracking stock to handling purchases and restocks. This project demonstrates core Python skills, logic implementation, and basic data management.
 
-# Features
+## 📸 Demo Preview
 
-- View all available skincare products in the inventory
-- Buy products and automatically update stock levels
-- Restock products when inventory is low
-- Generate invoices for purchases
-- Keep track of product quantities and pricing
+![Skincare Inventory - User Choice](https://github.com/akisavujel/Skincare-system-python/blob/20a00b07e9ded949e7ce66a134ba3b1b3cf4ec15/demo-screenshot/User-choice.png)
 
-# Technologies used
-- vs code
-- python idle
-- draw.io
+## 🔍 Features
+- 📦 View all available skincare products in the inventory  
+- 🛍️ Buy products with automatic stock updates  
+- 🔄 Restock products when inventory is low  
+- 🧾 Generate invoices for purchases  
+- 💰 Track product quantities and pricing
+
+## 🛠 Technologies Used
+- 🐍 Python  
+- 🖥️ VS Code  
+- 📌 Python IDLE  
+- 🎨 Draw.io (system diagrams)
+
+## 🎯 Skills Demonstrated
+- Python programming fundamentals  
+- Inventory logic and state management  
+- Input validation and loop logic  
+- Simple invoicing and stock control  
+- Project design and planning
+
